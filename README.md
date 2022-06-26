@@ -1,5 +1,4 @@
-You can see a demo of this repo on Replit : https://replit.com/@thatguyintech/BuyMeACoffee-Solidity-DeFi-Tipping-app
-
+You can see a demo of this repo on Replit : https://replit.com/@Musa-Nadir-Toch/BuyMeACoffee-Solidity-DApp?v=1
 ## Getting Started
 
 `npm install` to install dependencies
